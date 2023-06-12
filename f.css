@@ -1,0 +1,40 @@
+.c1{
+    margin-top: 200px;
+}
+.c2{
+    margin-top: 200px;
+}
+h1{
+    color: rgb(14, 14, 224);
+    font-size: 70px;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+
+}
+form{
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+}
+body{
+    background-color:rgb(207, 198, 198);
+}
+a{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn-success{
+    display: block;
+    margin-left: 75px;
+}
+.c{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
