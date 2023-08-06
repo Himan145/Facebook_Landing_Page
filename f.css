@@ -1,8 +1,8 @@
 .c1{
-    margin-top: 200px;
+    margin-top: 15%;
 }
 .c2{
-    margin-top: 200px;
+    margin-top: 15%;
 }
 h1{
     color: rgb(14, 14, 224);
@@ -16,7 +16,7 @@ button{
 
 }
 form{
-    background-color: white;
+    background-color: whitesomke;
     padding: 8px;
     border-radius: 8px;
 }
@@ -31,7 +31,7 @@ a{
 }
 .btn-success{
     display: block;
-    margin-left: 75px;
+    margin:0% 25%;
 }
 .c{
     font-size: 14px;
